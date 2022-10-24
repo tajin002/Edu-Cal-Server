@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Ethical Hacking",
+      "img": "https://t4.ftcdn.net/jpg/05/05/39/59/360_F_505395943_l1jwu722NBoI73CfNJDb1C0Hw4lqGsfP.jpg",
+      "ratings": 5,
+      "shortDetail": "Ethical Hacking is most popular in the world. If you learn Ethical Hacking, your chances of securing a career in Cyber Security will increase, an industry which will be recruiting 3.5 million unfilled cybersecurity jobs globally by 2022.",
+      "detail": "Ethical hacking involves a hacker agreeing with an organization or individual who authorizes the hacker to levy cyber attacks on a system or network to expose potential vulnerabilities. An ethical hacker is also sometimes referred to as a white hat hacker. Many depend on ethical hackers to identify weaknesses in their networks, endpoints, devices, or applications. The hacker informs their client as to when they will be attacking the system, as well as the scope of the attack. An ethical hacker operates within the confines of their agreement with their client. They cannot work to discover vulnerabilities and then demand payment to fix them. This is what gray hat hackers do. Ethical hackers are also different from black hat hackers, who hack to harm others or benefit themselves without permission."
+    },
+    {
+      "id": 2,
+      "name": "Cyber Security",
+      "img": "https://www.springboard.com/blog/wp-content/uploads/2022/02/is-cybersecurity-hard-scaled.jpg",
+      "ratings": 4.2,
+      "shortDetail": "This program helps in planning and implementing security strategies to reduce risk and enhance the protection of information, assets and systems. It also helps in communicating effectively, verbally and in writing with corporate management on cybersecurity related issues.",
+      "detail": "Cybersecurity is the practice of protecting systems networks and programs from digital attacks. These cyberattacks are usually aimed at accessing changing or destroying sensitive information extorting money from users via ransomware or interrupting normal business processes.Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people and attackers are becoming more innovative."
+    },
+    {
+      "id": 3,
+      "name": "Network Secutity",
+      "img": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d95e4e76593e827edc795e5_network-security-specialist.jpg",
+      "ratings": 4,
+      "shortDetail": "Most homes with high-speed internet connections have one or more wireless routers, which could be exploited if not properly secured. A solid network security system helps reduce the risk of data loss, theft and sabotage.",
+      "detail": "Network Security protects your network and data from breaches, intrusions and other threats. This is a vast and overarching term that describes hardware and software solutions as well as processes or rules and configurations relating to network use, accessibility, and overall threat protection."
+    },
+    {
+      "id": 4,
+      "name": "Machine Learning",
+      "img": "https://thumbs.dreamstime.com/b/machine-learning-concept-robot-education-hud-interface-d-rendering-231800180.jpg",
+      "ratings": 5,
+      "shortDetails": "Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products.",
+      "detail": "Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies."
+    },
+    {
+      "id": 5,
+      "name": "Database Management",
+      "img": "https://thumbs.dreamstime.com/b/dbms-businessman-hologram-concept-futuristic-dbms-businessman-hologram-concept-176710182.jpg",
+      "ratings": 4.5,
+      "shortDetails": "Database Management allows a person to organize, store, and retrieve data from a computer. Database Management can also describe the data storage, operations, and security practices of a database administrator (DBA) throughout the life cycle of the data. ",
+      "detail": "Knowledge of DBMS is essential to be a software developer because without DBMS knowledge ,back end of software can't be created .At least basic skills of DBMS is needed, if you don't want to study this useful subject thoroughly.But if you know about the deep corner of DBMS,then it will be very helpful for you everywhere and provides you a plus point."
+    },
+    {
+      "id": 6,
+      "name": "React Native",
+      "img": "https://www.solutionsplayer.com/wp-content/uploads/2021/03/react_native_vs_native_apps.png",
+      "ratings": 5,
+      "shortDetails": "React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities",
+      "detail": "React uses declarative instead of imperative syntax. It’s a simpler way of developing apps, and you can learn why here.Basically, React is faster to develop with because you don’t need to tell the app how to represent the state — you just need to say what you’d like to happen. It’s quick, it’s easy, and there’s less room for human error."
+    }
+  ]
