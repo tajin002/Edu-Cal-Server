@@ -7,12 +7,15 @@ app.use(cors());
 
 const categories = require("./Data/education.json");
 
+
 app.get('/' , (req , res)=>{
-    res.send("server is running ");
+    res.send(categories);
 });
 
-app.get ("/categories", (req , res)=>{
-    res.send(categories)
+app.get ("/data/:id", (req , res)=>{
+    const id = req.params.id;
+    const item = categories.find(item => item.id == id);  
+    res.send(item)
 })
 
 app.listen(port,()=>{
