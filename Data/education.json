@@ -4,7 +4,7 @@
       "name": "Ethical Hacking",
       "img": "https://t4.ftcdn.net/jpg/05/05/39/59/360_F_505395943_l1jwu722NBoI73CfNJDb1C0Hw4lqGsfP.jpg",
       "ratings": 5,
-      "shortDetail": "Ethical Hacking is most popular in the world. If you learn Ethical Hacking, your chances of securing a career in Cyber Security will increase, an industry which will be recruiting 3.5 million unfilled cybersecurity jobs globally by 2022.",
+      "shortDetails": "Ethical Hacking is most popular in the world. If you learn Ethical Hacking, your chances of securing a career in Cyber Security will increase, an industry which will be recruiting 3.5 million unfilled cybersecurity jobs globally by 2022.",
       "detail": "Ethical hacking involves a hacker agreeing with an organization or individual who authorizes the hacker to levy cyber attacks on a system or network to expose potential vulnerabilities. An ethical hacker is also sometimes referred to as a white hat hacker. Many depend on ethical hackers to identify weaknesses in their networks, endpoints, devices, or applications. The hacker informs their client as to when they will be attacking the system, as well as the scope of the attack. An ethical hacker operates within the confines of their agreement with their client. They cannot work to discover vulnerabilities and then demand payment to fix them. This is what gray hat hackers do. Ethical hackers are also different from black hat hackers, who hack to harm others or benefit themselves without permission."
     },
     {
@@ -12,7 +12,7 @@
       "name": "Cyber Security",
       "img": "https://www.springboard.com/blog/wp-content/uploads/2022/02/is-cybersecurity-hard-scaled.jpg",
       "ratings": 4.2,
-      "shortDetail": "This program helps in planning and implementing security strategies to reduce risk and enhance the protection of information, assets and systems. It also helps in communicating effectively, verbally and in writing with corporate management on cybersecurity related issues.",
+      "shortDetails": "This program helps in planning and implementing security strategies to reduce risk and enhance the protection of information, assets and systems. It also helps in communicating effectively, verbally and in writing with corporate management on cybersecurity related issues.",
       "detail": "Cybersecurity is the practice of protecting systems networks and programs from digital attacks. These cyberattacks are usually aimed at accessing changing or destroying sensitive information extorting money from users via ransomware or interrupting normal business processes.Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people and attackers are becoming more innovative."
     },
     {
@@ -20,7 +20,7 @@
       "name": "Network Secutity",
       "img": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d95e4e76593e827edc795e5_network-security-specialist.jpg",
       "ratings": 4,
-      "shortDetail": "Most homes with high-speed internet connections have one or more wireless routers, which could be exploited if not properly secured. A solid network security system helps reduce the risk of data loss, theft and sabotage.",
+      "shortDetails": "Most homes with high-speed internet connections have one or more wireless routers, which could be exploited if not properly secured. A solid network security system helps reduce the risk of data loss, theft and sabotage.",
       "detail": "Network Security protects your network and data from breaches, intrusions and other threats. This is a vast and overarching term that describes hardware and software solutions as well as processes or rules and configurations relating to network use, accessibility, and overall threat protection."
     },
     {
